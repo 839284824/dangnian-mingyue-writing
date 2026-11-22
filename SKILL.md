@@ -245,4 +245,4 @@ when_to_use: '用户要写或改历史口播稿、历史视频脚本、历史故
 - `references/style-guide.md`：完整风格规范、结构模板、示例与自检清单。
 - `references/prompt-templates.md`：生成、改写、审稿、润色、钩子备选、压缩六套提示词。
 - `references/example-episode.md`：秦始皇题材的成稿片段与史实—演绎对照示例。
-- `examples/shang-yang.md`：商鞅 5 分钟完整口播稿，示范开头钩子、压缩节奏和事实—演绎对照。
+- `examples/shang-yang.md`：商鞅 5 分钟完整口播稿（执念版），示范人物母题、开头钩子、压缩节奏和事实—演绎对照。
